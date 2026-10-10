@@ -21,7 +21,7 @@ I am Junteng Liu, a first-year PhD candidate at the HKUST NLP Group. I graduated
 - **Research Intern, Tencent WXG**, June 2024 - September 2024 (Advisor: Zifei Shan)
 - **Research Intern, Shanghai AI Lab**, June 2023 - December 2023 (Advisor: Prof. Yu Cheng)
 
-## Research Interests
+## Research Interests & Skills
 
 - LLM Reasoning and Reinforcement Learning
 - Hallucination in Vision-Language Models (VLM)
